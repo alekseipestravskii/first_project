@@ -1,2 +1,1 @@
-# first_project
-Этот репозиторий предназначен для работы и учебы с потоком GitHub
+qa_python_sprint_4_new
